@@ -1,0 +1,10 @@
+{
+  "name": "sectorstrike",
+  "displayName": "Sector Strike",
+  "author": "you",
+  "description": "Межсекторная артиллерия: бьёт по соседним секторам.",
+  "version": "1.0",
+  "minGameVersion": "154",
+  "java": true,
+  "main": "sectorstrike.SectorStrikeMod"
+}
